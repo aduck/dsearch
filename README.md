@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# dsearch
+  > 使用命令行抓取豆瓣电影院数据
+
 ### install
   ```bash
   $ npm install dsearch -g
@@ -15,7 +17,3 @@
 ### I say
   
   JUST FOR FUN
-=======
-# dsearch
-豆瓣电影院数据命令行式抓取
->>>>>>> b349495fd786e804979367ec2b45b103e02fbb67

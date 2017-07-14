@@ -1,0 +1,19 @@
+{
+  "name": "dsearch",
+  "version": "0.0.4",
+  "description": "豆瓣电影院数据抓取",
+  "main": "index.js",
+  "bin": {
+    "dsearch": "./lib/index.js"
+  },
+  "scripts": {
+    
+  },
+  "author": "higher",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.11.0",
+    "superagent": "^3.5.2"
+  }
+}
